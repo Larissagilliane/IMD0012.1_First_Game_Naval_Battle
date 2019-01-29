@@ -1,0 +1,135 @@
+# depslib dependency file v1.0
+1465491316 source:c:\users\larissagilliane\desktop\08-06\principal.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<locale.h>
+	<conio.h>
+	"ent_saida.h"
+
+1465490159 .h"
+
+1465440866 c:\users\larissagilliane\desktop\08-06\ent_saida.h
+
+1465490159 source:c:\users\larissagilliane\desktop\08-06\ent_saida.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<locale.h>
+	<conio.h>
+	"ent_saida.h"
+
+1465493708 source:/media/MTAuNi44LjUx/LARISSA_IMD/08-06/ent_saida.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<locale.h>
+	"ent_saida.h"
+
+1465493685 /media/MTAuNi44LjUx/LARISSA_IMD/08-06/ent_saida.h
+
+1465493715 source:/media/MTAuNi44LjUx/LARISSA_IMD/08-06/principal.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<locale.h>
+	"ent_saida.h"
+
+1465493762 source:\\tsclient\usbdisk\08-06\ent_saida.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<locale.h>
+	<conio.h>
+	"ent_saida.h"
+
+1465493685 \\tsclient\usbdisk\08-06\ent_saida.h
+
+1465493766 source:\\tsclient\usbdisk\08-06\principal.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<locale.h>
+	<conio.h>
+	"ent_saida.h"
+
+1465594796 source:c:\users\larissa\desktop\estudo uf\ti\itp-ptp\batalha_naval\08-06\principal.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<locale.h>
+	<conio.h>
+	<windows.h>
+	"ent_saida.h"
+
+1465593311 c:\users\larissa\desktop\estudo uf\ti\itp-ptp\batalha_naval\08-06\ent_saida.h
+
+1465592771 source:c:\users\larissa\desktop\estudo uf\ti\itp-ptp\batalha_naval\08-06\ent_saida.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<locale.h>
+	<conio.h>
+	<windows.h>
+	"ent_saida.h"
+
+1465847960 source:c:\users\larissa\desktop\estudo uf\ti\itp-ptp\batalha_naval\10-06_terceira etapa\principal.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<locale.h>
+	<conio.h>
+	<windows.h>
+	"ent_saida.h"
+
+1465848773 c:\users\larissa\desktop\estudo uf\ti\itp-ptp\batalha_naval\10-06_terceira etapa\ent_saida.h
+
+1465836507 source:c:\users\larissa\desktop\estudo uf\ti\itp-ptp\batalha_naval\10-06_terceira etapa\ent_saida.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<locale.h>
+	<conio.h>
+	<windows.h>
+	"ent_saida.h"
+
+1465858724 source:c:\users\larissagilliane\desktop\10-06_terceira etapa\principal.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<locale.h>
+	<conio.h>
+	<windows.h>
+	"ent_saida.h"
+
+1465848774 c:\users\larissagilliane\desktop\10-06_terceira etapa\ent_saida.h
+
+1465856038 source:c:\users\larissagilliane\desktop\10-06_terceira etapa\ent_saida.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<locale.h>
+	<conio.h>
+	<windows.h>
+	"ent_saida.h"
+
+1465941927 source:c:\users\larissa\desktop\estudo uf\ti\itp-ptp\batalha_naval\13-06\ent_saida.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<locale.h>
+	<conio.h>
+	<windows.h>
+	"ent_saida.h"
+
+1465925492 c:\users\larissa\desktop\estudo uf\ti\itp-ptp\batalha_naval\13-06\ent_saida.h
+
+1465919669 source:c:\users\larissa\desktop\estudo uf\ti\itp-ptp\batalha_naval\13-06\principal.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<locale.h>
+	<conio.h>
+	<windows.h>
+	"ent_saida.h"
+
